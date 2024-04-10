@@ -62,7 +62,7 @@ const char OPTION_CLOSE_TO_TRAY[] = "closeToTray";
 const char OPTION_PRIVACY_PARAMS[] = "privacyParams";
 const char OPTION_PRIVACY_NEWS_ENABLED[] = "newsEnabled";
 
-const char DEFAULT_WALLET_FILE_NAME[] = "qwertycoin.wallet";
+const char DEFAULT_WALLET_FILE_NAME[] = "ekoin.wallet";
 const quint64 DEFAULT_OPTIMIZATION_PERIOD = 1000 * 60 * 30; // 30 minutes
 const quint64 DEFAULT_OPTIMIZATION_THRESHOLD = 100000000000000;
 const quint64 DEFAULT_OPTIMIZATION_MIXIN = 2;
